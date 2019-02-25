@@ -30,9 +30,11 @@ La herencia nos sirve para poder tomar los atributos y elementos de una clase. T
 ![Herencia](./img/hrc.jpg)
 
 ## UML: Diagrama de clases
-![Diagrama](./img/dgm.jpg)
+![Diagrama](./img/dgm.png)
+
 ### Historia
 ![UML](./img/uml.jpg)
+
 UML son las siglas de “Unified Modeling Language” o “Lenguaje Unificado de Modelado”. Se trata de un estándar que se ha adoptado a nivel internacional por numerosos organismos y empresas para crear esquemas, diagramas y documentación relativa a los desarrollos de software (programas informáticos).
 
 Bajo la dirección técnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue organizado un consorcio internacional llamado UML Partners en 1996 para completar las especificaciones del UML, y para proponerlo como una respuesta al OMG RFP. El borrador de la especificación UML 1.0 de UML Partners fue propuesto a la OMG en enero de 1997. Durante el mismo mes, la UML Partners formó una Fuerza de Tarea Semántica, encabezada por Cris Kobryn y administrada por Ed Eykholt, para finalizar las semánticas de la especificación y para integrarla con otros esfuerzos de estandarización. El resultado de este trabajo, el UML 1.1, fue presentado ante la OMG en agosto de 1997 y adoptado por la OMG en noviembre de 1997.
@@ -42,21 +44,21 @@ UML es una herramienta propia de personas que tienen conocimientos relativamente
 El UML está compuesto por diversos elementos gráficos que se combinan para conformar diagramas. Debido a que el UML es un lenguaje, cuenta con reglas para combinar tales elementos. La finalidad de los diagramas es presentar diversas perspectivas de un sistema, a las cuales se les conoce como modelo. El modelo UML describe lo que supuestamente hará un sistema, pero no dice cómo implementar dicho sistema.
 
 Tipos de diagrama de clases:
-..* Diagrama de Objetos
-..* Diagrama de Casos de Uso
-..* Diagrama de Estados
-..* Diagrama de Secuencias
-..* Diagrama de Actividades
-..* Diagrama de Colaboraciones
-..* Diagrama de Componentes
-..* Diagrama de Distribución
+* Diagrama de Objetos
+* Diagrama de Casos de Uso
+* Diagrama de Estados
+* Diagrama de Secuencias
+* Diagrama de Actividades
+* Diagrama de Colaboraciones
+* Diagrama de Componentes
+* Diagrama de Distribución
 
 Herramientas o programas para trabajar con UML:
-..* Astah community: herramienta sencilla, adecuada para aprender.
-..* Rational Rose: conjunto de herramientas IBM usado por muchas empresas.
-..* Lucidchart: herramienta que permite crear muchos tipos de diagramas, entre ellos UML.
-..* Microsoft Visio: herramienta de Microsoft que permite la creación de muchos tipos de diagramas, entre ellos diagramas UML.
-..* Otros: Erwin, Oracle Designer, EasyCASE, Power Designer, etc. son herramientas que incorporan muchas utilidades, entre ellas UML.
+* Astah community: herramienta sencilla, adecuada para aprender.
+* Rational Rose: conjunto de herramientas IBM usado por muchas empresas.
+* Lucidchart: herramienta que permite crear muchos tipos de diagramas, entre ellos UML.
+* Microsoft Visio: herramienta de Microsoft que permite la creación de muchos tipos de diagramas, entre ellos diagramas UML.
+* Otros: Erwin, Oracle Designer, EasyCASE, Power Designer, etc. son herramientas que incorporan muchas utilidades, entre ellas UML.
 
 ### ¿Sabes de alguna empresa local que utilice este lenguaje?
 No
