@@ -1,4 +1,4 @@
-# Tarea 1
+# Tarea 1 - Introducción al paradigma de la programación orientado a objetos.
 #### Melendez Gonzalez Cristian David - 18212222
 
 ### Paradigma
@@ -64,3 +64,6 @@ Herramientas o programas para trabajar con UML:
 No
 
 ### Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
+![DiagramaUML](./img/dgr.PNG)
+
+El cliente que tiene dinero interactua con la maquina, el dinero interactua con la maquina recibiendo y devolviendo dinero en caso que requiera dar cambio, la maquina tiene diferentes productos, los productos tienen nombre, la cantidad disponible y su costo. y la maquina se controla por medio de una interfaz que son los botones y sus diferentes estados.
